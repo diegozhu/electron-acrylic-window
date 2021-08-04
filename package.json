@@ -51,7 +51,7 @@
 		"bindings": "^1.5.0",
 		"node-addon-api": "^4.0.0",
 		"node-gyp": "^8.1.0",
-		"win32-displayconfig": "^0.1.0"
+		"win32-displayconfig": "https://github.com/diegozhu/win32-displayconfig.git"
 	},
 	"devDependencies": {
 		"@commitlint/cli": "^12.1.4",
